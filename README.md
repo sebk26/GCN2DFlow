@@ -37,6 +37,8 @@ The experiments described in this paper [1] used a single NVidia V100 GPU and th
 * Python 3.7.4
 * CUDA 10.1
 * cuDNN 7.6.4
+* numba 0.47.0
+* LLVM 9.0.0
 
 Python Packages used (with all dependencies):
 
