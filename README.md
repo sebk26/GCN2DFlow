@@ -1,6 +1,6 @@
 ## Demo-Code for the Prediction of 2D Flow Fields
 
-This repo contains the code used to produce the results of [1]. The dataset was based on pointclouds similar to the one provided as  `./example.vtu`. The sample can be inspected with Paraview for example.
+This repo contains the code used to produce the results of [1]. The dataset was based on pointclouds similar to the one provided as  `./example.vtu`. Inspect it with e.g. Paraview (https://www.paraview.org/).
 
 This repository contains training and evaluation script for learning and predicting steady mesh-based simulations. Here, computational fluid dynamics (CFD) was used to produce the dataset.
 
