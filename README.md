@@ -55,6 +55,9 @@ torch-scatter                      2.0.5
 torch-sparse                       0.6.7
 ```
 
+Torch-geometric and associated packages are installed from here: https://github.com/pyg-team/pytorch_geometric
+Easy installation is described here: https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+
 #### Training
 
 ```sh
